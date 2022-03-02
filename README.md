@@ -37,7 +37,7 @@
   <br>
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naderab&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
   
 ![Naderab's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Naderab&theme=redical&hide_border=true&area=true)
 | ![Naderab's github stats](https://github-readme-stats.vercel.app/api?username=Naderab&show_icons=true&theme=radical)             | ![Naderab GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naderab&theme=radical)                                                                                                           |
