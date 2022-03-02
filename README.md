@@ -34,12 +34,13 @@
 
 <br>
 <br>
-  <br>
 <h2> GitHub Trophies </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naderab&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-  
 
+<br>
+<br>
+  
 ![Naderab's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Naderab&theme=redical&hide_border=true&area=true)
 | ![Naderab's github stats](https://github-readme-stats.vercel.app/api?username=Naderab&show_icons=true&theme=radical)             | ![Naderab GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naderab&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
