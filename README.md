@@ -39,6 +39,6 @@
 
 <br>
 
-<h2>⚡My GitHub Stats</h2>
+<h2> My GitHub Stats</h2>
   
 <img title="GITHUB sTATS" text-align="center"  src="https://github-readme-stats.vercel.app/api?username=Naderab&theme=dark&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
