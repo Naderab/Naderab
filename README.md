@@ -40,6 +40,9 @@
 
 <br>
 <br>
-<h2> My GitHub Stats </h2>
-![Naderab's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Naderab&theme=redical&hide_border=true&area=true)
-| ![Naderab's github stats](https://github-readme-stats.vercel.app/api?username=Naderab&show_icons=true&theme=radical)| ![Naderab GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naderab&theme=radical)|| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<h2>⚡My GitHub Stats</h2>
+  
+[![Naderab's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naderab&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Naderab's github stats](https://github-readme-stats.vercel.app/api?username=Naderab&show_icons=true&theme=tokyonight) | ![Naderab GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naderab&theme=tokyonight) |
+| --- | --- |
