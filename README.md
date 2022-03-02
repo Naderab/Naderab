@@ -1,7 +1,5 @@
+<div align='center'>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
 
 [![Github](https://img.shields.io/github/followers/Naderab?label=Follow&style=social)](https://github.com/Naderab)
 
@@ -33,13 +31,13 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'></a>
 
 <br>
-<br>
+
 <h2> GitHub Trophies </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naderab&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 
 <br>
-<br>
+
 <h2>⚡My GitHub Stats</h2>
   
 <img title="GITHUB sTATS" text-align="center"  src="https://github-readme-stats.vercel.app/api?username=Naderab&theme=dark&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
