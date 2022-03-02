@@ -6,10 +6,10 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Naderab.Naderab)
+
 [![Github](https://img.shields.io/github/followers/Naderab?label=Follow&style=social)](https://github.com/Naderab)
 
-<div size='20px'> Hi! My name is Nader Abdellaoui and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile:
+<div size='30px'> Hi! My name is Nader Abdellaoui and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2> About Me </h2>
