@@ -1,7 +1,3 @@
-<div align="center">
-<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -39,7 +35,10 @@
 <br>
 <br>
   <br>
+## 🏆 GitHub Trophies
 
- ![Naderab's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Naderab&theme=redical&hide_border=true&area=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+![Naderab's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Naderab&theme=redical&hide_border=true&area=true)
 | ![Naderab's github stats](https://github-readme-stats.vercel.app/api?username=Naderab&show_icons=true&theme=radical)             | ![Naderab GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naderab&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
