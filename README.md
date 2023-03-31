@@ -35,7 +35,7 @@
 <br>
 
 <!-- Trophies  -->
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naderab&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 
