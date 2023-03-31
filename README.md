@@ -45,7 +45,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img title="To Languages" text-align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naderab&theme=algolia&layout=compact"/>
-<img title="GITHUB STATS" text-align="center"  src="https://github-readme-stats.vercel.app/api?username=Naderab&theme=dark&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naderab&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)" alt="Naderab" /></p>
+<img title="To Languages" text-align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naderab&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true&layout=compact"/>
+<img title="GITHUB STATS" text-align="center"  src="https://github-readme-stats.vercel.app/api?username=Naderab&theme=dark&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true&layout=compact)"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naderab&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true&layout=compact)" alt="Naderab" /></p>
 
