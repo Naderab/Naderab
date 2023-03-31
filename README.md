@@ -3,7 +3,7 @@
 <div size='30px'> Hi! My name is Nader Abdellaoui and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
-<h2> About Me </h2>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
