@@ -20,7 +20,8 @@
 - 💬 Talk to me about React,Angular,Symfony, NestJS, JavaScript, ...
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<!-- Skills  -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
@@ -33,14 +34,15 @@
 
 <br>
 
-<!-- Github Stats   -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- Trophies  -->
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Skills</b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naderab&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 
 <br>
 
-<h2> My GitHub Stats</h2>
+<!-- Github Stats   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img title="GITHUB sTATS" text-align="center"  src="https://github-readme-stats.vercel.app/api?username=Naderab&theme=dark&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naderab&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)" alt="Naderab" /></p>
