@@ -1,7 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Nader+Abdellaoui!;Software+Engineer;Full+Stack+Web+Developer) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+<h1 align="center"><b>Hi , I'm Nader Abdellaoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div size='30px'> Hi! My name is Nader Abdellaoui and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile:
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Nader+Abdellaoui!.&hearts;++;Self-taught+Software-Engineer,;Full+Stach+Web+Developer,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
