@@ -44,6 +44,7 @@
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+![Nader's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naderab&theme=algolia&layout=compact)
 <img title="GITHUB sTATS" text-align="center"  src="https://github-readme-stats.vercel.app/api?username=Naderab&theme=dark&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naderab&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)" alt="Naderab" /></p>
 
