@@ -9,10 +9,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 - 🔭 I’m currently working on ESPRIT
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning DevOps
 
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
 
